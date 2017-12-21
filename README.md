@@ -1,1 +1,1 @@
-# BigDataThinkTank
+http://conferences.nib.si/BigData/
