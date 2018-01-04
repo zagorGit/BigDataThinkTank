@@ -23,3 +23,5 @@ Graph Analytics for Neo4j: https://github.com/kbastani/neo4j-mazerunner
 Learn TensorFlow and deep learning, without a Ph.D.: https://cloud.google.com/blog/big-data/2017/01/learn-tensorflow-and-deep-learning-without-a-phd
 
 TensorFlow - Getting Started : https://www.tensorflow.org/get_started/
+
+Musical generator - creates music out of fractals, numbers, text and graphics: https://www.musoft-builders.com/html/amg_pi.shtml
