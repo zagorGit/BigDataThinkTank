@@ -25,3 +25,7 @@ Learn TensorFlow and deep learning, without a Ph.D.: https://cloud.google.com/bl
 TensorFlow - Getting Started : https://www.tensorflow.org/get_started/
 
 Musical generator - creates music out of fractals, numbers, text and graphics: https://www.musoft-builders.com/html/amg_pi.shtml
+
+	
+
+Image Databases: http://imageprocessingplace.com/root_files_V3/image_databases.htm
