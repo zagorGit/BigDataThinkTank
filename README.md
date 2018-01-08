@@ -10,19 +10,34 @@ Getting started with machine learning (Collection): https://github.com/collectio
 
 Machine Learning in Python: https://github.com/scikit-learn/scikit-learn
 
+Scikit-learn Tutorial: https://github.com/CansenJIANG/2017-cds-workshop-scikit-learn
+
+PyCon 2015 Scikit-learn Tutorial: https://github.com/jakevdp/sklearn_pycon2015
+
+An Introduction to Statistical Learning with Applications in R: 
+
+- http://www-bcf.usc.edu/~gareth/ISL/ 
+
+- https://www.r-bloggers.com/in-depth-introduction-to-machine-learning-in-15-hours-of-expert-videos/
+
 
 # Deep Learning
 
 Deep Learning with R : https://www.manning.com/books/deep-learning-with-r
 
-Exercises for the Deep Learning textbook at www.deeplearningbook.org: https://github.com/goodfeli/dlbook_exercises
+Exercises for the Deep Learning textbook 
+- www.deeplearningbook.org
+
+- https://github.com/goodfeli/dlbook_exercises
 
 
 # TensorFlow
 
 TensorFlow - Getting Started : https://www.tensorflow.org/get_started/
 
-TensorFlow for R : https://github.com/rstudio/tensorflow (https://tensorflow.rstudio.com/)
+TensorFlow for R : https://github.com/rstudio/tensorflow 
+
+- https://tensorflow.rstudio.com/
 
 - Keras API: https://tensorflow.rstudio.com/keras/
 
@@ -41,7 +56,11 @@ Learn TensorFlow and deep learning, without a Ph.D.: https://cloud.google.com/bl
 
 # Deep Learning and Image Analysis
 
-Deep Neural Networks Go to the Movies (https://www.strong.io/blog/deep-neural-networks-go-to-the-movies) : https://github.com/strongio/movie-posters
+Deep Neural Networks Go to the Movies: 
+
+- https://www.strong.io/blog/deep-neural-networks-go-to-the-movies
+
+- https://github.com/strongio/movie-posters
 
 Building a Real-time Hand-Detector using Neural Networks (SSD) on Tensorflow: https://github.com/victordibia/handtracking
 
@@ -92,4 +111,6 @@ Analyzing Big Data with Microsoft R Server: https://github.com/MicrosoftLearning
 High-Performance and Parallel Computing with R: https://github.com/eddelbuettel/ctv-hpc
 
 Using IPython for parallel computing: https://ipython.org/ (https://ipyparallel.readthedocs.io/en/latest/)
+
+Biomedical Data Science  with R: http://genomicsclass.github.io/book/
 
