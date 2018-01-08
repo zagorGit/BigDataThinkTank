@@ -91,3 +91,5 @@ Analyzing Big Data with Microsoft R Server: https://github.com/MicrosoftLearning
 
 High-Performance and Parallel Computing with R: https://github.com/eddelbuettel/ctv-hpc
 
+Using IPython for parallel computing: https://ipython.org/ (https://ipyparallel.readthedocs.io/en/latest/)
+
