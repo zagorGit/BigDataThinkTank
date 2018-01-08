@@ -45,7 +45,9 @@ TensorFlow for R : https://github.com/rstudio/tensorflow
 
 - Core TensorFlow API: https://tensorflow.rstudio.com/tensorflow/
 
-Learn TensorFlow and deep learning, without a Ph.D.: https://cloud.google.com/blog/big-data/2017/01/learn-tensorflow-and-deep-learning-without-a-phd
+Learn TensorFlow and deep learning, without a Ph.D
+
+- https://cloud.google.com/blog/big-data/2017/01/learn-tensorflow-and-deep-learning-without-a-phd
 
 - https://github.com/martin-gorner/tensorflow-mnist-tutorial
 
