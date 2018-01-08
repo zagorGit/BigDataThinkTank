@@ -13,6 +13,8 @@ Machine Learning in Python: https://github.com/scikit-learn/scikit-learn
 
 # Deep Learning
 
+Deep Learning with R : https://www.manning.com/books/deep-learning-with-r
+
 Exercises for the Deep Learning textbook at www.deeplearningbook.org: https://github.com/goodfeli/dlbook_exercises
 
 
