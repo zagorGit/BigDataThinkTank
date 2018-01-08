@@ -89,3 +89,5 @@ Graph Analytics for Neo4j: https://github.com/kbastani/neo4j-mazerunner
 
 Analyzing Big Data with Microsoft R Server: https://github.com/MicrosoftLearning/Analyzing-Big-Data-with-Microsoft-R
 
+High-Performance and Parallel Computing with R: https://github.com/eddelbuettel/ctv-hpc
+
