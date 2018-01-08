@@ -30,6 +30,12 @@ TensorFlow for R : https://github.com/rstudio/tensorflow (https://tensorflow.rst
 
 Learn TensorFlow and deep learning, without a Ph.D.: https://cloud.google.com/blog/big-data/2017/01/learn-tensorflow-and-deep-learning-without-a-phd
 
+- https://github.com/martin-gorner/tensorflow-mnist-tutorial
+
+- https://github.com/martin-gorner/tensorflow-mnist-tutorial/blob/master/INSTALL.txt
+
+- https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist/#0
+
 
 # Deep Learning and Image Analysis
 
